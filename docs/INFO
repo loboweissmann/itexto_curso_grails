@@ -3,6 +3,12 @@ Ola,
 neste diretório salvo toda a documentação referente ao projeto que desenvolveremos durante o curso,
 além de algumas informações auxiliares que lhe ajudarão a configurar seu ambiente de desenvolvimento.
 
+Alguns toques importantes devem ser dados a respeito da documentação:
+
+* Diagramas de classe
+Todos os diagramas de classe (arquivos com a extensão .asta) são gerados usando o Astah Community Edition,
+que pode ser baixado gratuitamente em http://www.astah.net
+
 Qualquer dúvida, pode entrar em contato comigo por e-mail: kicolobo@itexto.net
 
 Grande abraço,
