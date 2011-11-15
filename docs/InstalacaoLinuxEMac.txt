@@ -1,0 +1,28 @@
+Para instalar o Grails tanto no Linux quanto no Mac, siga os passos a seguir
+
+1. Crie uma variavel de ambiente chamada GRAILS_HOME apontando para o diretório no qual o Grails foi descompactado
+
+Por exemplo:
+export GRAILS_HOME=~/grails1.3.7
+
+2. Adicione o diretório bin da sua distribuição do Grails no seu path do sistema
+Por exemplo:
+export PATH=$PATH$:$GRAILS_HOME$/bin
+
+3. Certifique-se de possuir a variavel JAVA_HOME definida no seu ambiente. A variavel deve apontar para o diretório
+de instalação do seu JDK
+Por exemplo:
+export JAVA_HOME=~/JDK1.6.0
+
+Para tornar estas modificações permantentes, você deve seguir o seguinte procedimento:
+
+No Linux:
+edite o arquivo .bashrc, presente no seu diretório home com os três comandos acima
+
+No Mac:
+edite o arquivo .bash_profile presente no seu diretório home com os três comandos que descrevi acima.
+
+Quaisquer dúvidas e sugestões, você pode me contactar por e-mail: kicolobo@itexto.net
+
+Grande abraço,
+  Henrique Lobo Weissmann (Kico)
