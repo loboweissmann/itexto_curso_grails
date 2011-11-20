@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="kicolobo-hp" id="0" name="CategoriaControllerTests" package="estoque" tests="1" time="0.546" timestamp="2011-11-19T20:09:26">
+      <properties />
+
+      <testcase classname="estoque.CategoriaControllerTests" name="testSomething" time="0.531" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="kicolobo-hp" id="1" name="CategoriaTests" package="estoque" tests="1" time="0.0050" timestamp="2011-11-19T20:09:26">
+      <properties />
+
+      <testcase classname="estoque.CategoriaTests" name="testSomething" time="0.0020" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="kicolobo-hp" id="2" name="FornecedorControllerTests" package="estoque" tests="1" time="0.04" timestamp="2011-11-19T20:09:26">
+      <properties />
+
+      <testcase classname="estoque.FornecedorControllerTests" name="testSomething" time="0.037" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="kicolobo-hp" id="3" name="FornecedorTests" package="estoque" tests="1" time="0.0070" timestamp="2011-11-19T20:09:26">
+      <properties />
+
+      <testcase classname="estoque.FornecedorTests" name="testSomething" time="0.0040" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="kicolobo-hp" id="4" name="ItemEstoqueTests" package="estoque" tests="1" time="0.0060" timestamp="2011-11-19T20:09:26">
+      <properties />
+
+      <testcase classname="estoque.ItemEstoqueTests" name="testSomething" time="0.0030" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="kicolobo-hp" id="5" name="ProdutoBuilderTests" package="estoque" tests="1" time="0.115" timestamp="2011-11-19T20:09:26">
+      <properties />
+
+      <testcase classname="estoque.ProdutoBuilderTests" name="testCriarProduto" time="0.11" />
+
+      <system-out><![CDATA[--Output from testCriarProduto--
+createNode [object,map] [nome:Produto de teste]
+createNode [object name]
+createNode [object,map] [nome:Categoria de teste]
+createNode [object name]
+setParent
+createNode [object,map] [nome:Fornecedor quente, email:email@email.com]
+createNode [object name]
+setParent
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testCriarProduto--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="kicolobo-hp" id="6" name="ProdutoControllerTests" package="estoque" tests="1" time="0.019" timestamp="2011-11-19T20:09:27">
+      <properties />
+
+      <testcase classname="estoque.ProdutoControllerTests" name="testSomething" time="0.015" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="kicolobo-hp" id="7" name="ProdutoTests" package="estoque" tests="1" time="0.0080" timestamp="2011-11-19T20:09:27">
+      <properties />
+
+      <testcase classname="estoque.ProdutoTests" name="testSomething" time="0.0030" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+</testsuites>

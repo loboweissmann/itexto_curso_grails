@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="kicolobo-hp" name="estoque.CategoriaControllerTests" tests="1" time="0.546" timestamp="2011-11-19T20:09:26">
+  <properties />
+  <testcase classname="estoque.CategoriaControllerTests" name="testSomething" time="0.531" />
+  <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+  <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+</testsuite>

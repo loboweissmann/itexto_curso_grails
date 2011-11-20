@@ -1,0 +1,9 @@
+--Output from testCriarProduto--
+createNode [object,map] [nome:Produto de teste]
+createNode [object name]
+createNode [object,map] [nome:Categoria de teste]
+createNode [object name]
+setParent
+createNode [object,map] [nome:Fornecedor quente, email:email@email.com]
+createNode [object name]
+setParent
